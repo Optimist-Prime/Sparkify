@@ -31,4 +31,4 @@ Please check my blog post to get more details, here is the [link](https://mohit-
 
 ## References
 
-Dataset provided by [Udacity](https://cn.udacity.com/).
+Dataset provided by [Udacity](https://www.udacity.com/).
